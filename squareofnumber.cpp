@@ -6,7 +6,6 @@ int main()
     cout<<"Enter the number : ";
     cin>>x;
     cout<<"The square of the number is : "<<x*x;
-    cin.get();
 }
 
 
